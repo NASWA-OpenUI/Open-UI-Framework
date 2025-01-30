@@ -5,7 +5,7 @@ This repository serves as our central document management system. The repository
 
 **Directory Structure**
 - **Overview/:** Contains reference documents explaining repository usage and guidelines
-- **Published/:** Houses approved, final versions of documents
+- **Published/:** All updates and comments approved, final versions of documents
 - **Working/:** Contains in-progress documents and drafts
 
 Please refer to the README in each directory for specific usage guidelines.
