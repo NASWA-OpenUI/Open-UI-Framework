@@ -1,18 +1,5 @@
-![](media/image1.jpeg){width="6.48125in" height="2.783333333333333in"}
-
-Open UI Repository:
-
-Contribution Guidelines
-
-January 2025
-
-Open UI Repository -- Contribution Guidelines
-
-National Association of State Workforce Agencies (NASWA)
-
-[www.naswa.org/open-ui-initiative](http://www.naswa.org/open-ui-initiative)
-
 Open UI Repository - Contribution Guidelines
+============================================
 
 # Overview
 
@@ -73,13 +60,6 @@ Learn how to work with documents in the repository - from viewing and
 finding files to submitting changes for review. While GitHub supports
 management of raw code files (text), it also supports non-text files
 such as documents, spreadsheets, pictures, and presentations.
-
-The following diagram shows the correlation between the user actions and
-the corresponding functions in GitHub:
-
-![](media/image3.svg){width="6.5in" height="2.84375in"}
-
-**Figure 1: User and GitHub Parallel Actions**
 
 ## Viewing and Finding Documents
 
