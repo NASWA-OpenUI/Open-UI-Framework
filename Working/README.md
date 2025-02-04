@@ -8,4 +8,3 @@ This directory is for drafts and documents under development. Use this space to 
 - Link to related issues for broader discussions
 
 **Note:** While this directory allows more flexible collaboration, all changes still require review through pull requests before merging.
-**NOTE:** This is a test
