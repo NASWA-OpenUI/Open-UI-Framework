@@ -7,7 +7,7 @@ The Open UI Initiative Team at NASWA (the Open UI team), acting as leaders, cont
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment include: 
+Examples of behavior that contribute to a positive environment include: 
 
 * Demonstrating empathy and kindness toward other people  
 * Being respectful of differing opinions, viewpoints, and experiences  
@@ -29,7 +29,7 @@ Examples of unacceptable behavior include:
 
 ## Enforcement Responsibilities
 
-The Open UI team at NASWA, acting as community stewards, are responsible for clarifying and enforcing standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior deemed inappropriate, threatening, offensive, or harmful. 
+The Open UI team at NASWA, acting as community stewards, is responsible for clarifying and enforcing standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior deemed inappropriate, threatening, offensive, or harmful. 
 
 Community stewards have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to these Community Guidelines, and will communicate reasons for moderation decisions when appropriate. 
 
@@ -46,5 +46,4 @@ All community stewards are obligated to respect the privacy and security of the 
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+version 2.1, available [here](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
