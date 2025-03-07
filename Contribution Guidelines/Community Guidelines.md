@@ -45,5 +45,4 @@ All community stewards are obligated to respect the privacy and security of the 
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available [here](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
+This Code of Conduct is adapted from the [Contributor Covenant, Version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
