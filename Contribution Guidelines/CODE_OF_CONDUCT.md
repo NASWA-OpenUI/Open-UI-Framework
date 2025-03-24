@@ -1,4 +1,4 @@
-# Open UI Initiative Community Guidelines
+# Open UI Initiative Code of Conduct
 
 
 ## Our Pledge
@@ -31,11 +31,11 @@ Examples of unacceptable behavior include:
 
 The Open UI team at NASWA, acting as community stewards, is responsible for clarifying and enforcing standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior deemed inappropriate, threatening, offensive, or harmful. 
 
-Community stewards have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to these Community Guidelines, and will communicate reasons for moderation decisions when appropriate. 
+Community stewards have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate. 
 
 ## Scope
 
-These Community Guidelines apply within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing the community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event. 
+This Code of Conduct will apply within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing the community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event. 
 
 ## Enforcement
 
