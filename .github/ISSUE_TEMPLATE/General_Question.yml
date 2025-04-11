@@ -1,0 +1,59 @@
+# Template 3: General Question
+# This template is for general questions not tied to specific documents
+# filename: .github/ISSUE_TEMPLATE/general_question.yml
+
+name: General Question
+description: Ask a general question about the Open UI project or repository
+title: "[QUESTION]: "
+labels: ["question"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## General Question Form
+        Use this form to ask general questions about the Open UI project or repository.
+        We'll do our best to provide a helpful answer as quickly as possible.
+  
+  - type: dropdown
+    id: question-category
+    attributes:
+      label: Question Category
+      description: What category does your question fall under?
+      options:
+        - Project overview or goals
+        - Timeline or roadmap
+        - Technical implementation details
+        - Collaboration or contribution opportunities
+        - Repository organization
+        - Other (please specify)
+    validations:
+      required: true
+  
+  - type: textarea
+    id: question-details
+    attributes:
+      label: Your Question
+      description: Please provide your question in detail
+      placeholder: |
+        Please be as specific as possible to help us provide the most helpful answer.
+    validations:
+      required: true
+  
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any additional information that might help us answer your question
+      placeholder: "I'm asking because..."
+    validations:
+      required: false
+  
+  - type: input
+    id: organization
+    attributes:
+      label: Your Organization
+      description: Which organization or agency are you with?
+      placeholder: "e.g., Department of Labor, State of California"
+    validations:
+      required: true
