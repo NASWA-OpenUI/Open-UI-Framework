@@ -1,0 +1,71 @@
+# Template 1: Document Feedback
+# This template is for any feedback related to repository documents
+# filename: .github/ISSUE_TEMPLATE/document_feedback.yml
+
+name: Document Feedback
+description: Provide feedback, ask questions, or suggest changes to repository documents
+title: "[DOC]: "
+labels: ["documentation", "feedback"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Document Feedback Form
+        Use this form to provide feedback on any documents in the Open UI repository.
+        Your feedback will be automatically tracked and addressed by our team.
+  
+  - type: input
+    id: document-name
+    attributes:
+      label: Document Name or Path
+      description: Which document are you providing feedback on?
+      placeholder: "e.g., /docs/user-guide.md or Technical Requirements Document"
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: feedback-type
+    attributes:
+      label: Type of Feedback
+      description: What kind of feedback are you providing?
+      options:
+        - Question about content
+        - Suggestion for improvement
+        - Report of inaccurate information
+        - Report of missing information
+        - Grammar/formatting issue
+        - Other (please explain below)
+    validations:
+      required: true
+  
+  - type: textarea
+    id: feedback-details
+    attributes:
+      label: Feedback Details
+      description: Please provide detailed information about your feedback
+      placeholder: |
+        Please include:
+        - Specific section or page you're referring to
+        - The text or content you're commenting on
+        - Clear explanation of your question or concern
+    validations:
+      required: true
+  
+  - type: textarea
+    id: suggested-changes
+    attributes:
+      label: Suggested Changes (if applicable)
+      description: If you're suggesting a change, please provide your proposed text or solution
+      placeholder: "I suggest changing X to Y because..."
+    validations:
+      required: false
+  
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Acknowledgement
+      description: By submitting this issue, you confirm the following
+      options:
+        - label: I have checked that there are no similar open issues addressing this feedback
+          required: true
