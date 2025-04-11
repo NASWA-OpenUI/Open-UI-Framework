@@ -1,0 +1,73 @@
+# Template 2: Access Issue
+# This template is for reporting access problems
+# filename: .github/ISSUE_TEMPLATE/access_issue.yml
+
+name: Access or Permission Issue
+description: Report problems accessing the repository or specific content
+title: "[ACCESS]: "
+labels: ["access", "support"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Access Issue Report
+        Use this form to report any problems with accessing the repository or specific content.
+        Our team will respond as quickly as possible to resolve your access issue.
+  
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Type of Access Issue
+      description: What type of access problem are you experiencing?
+      options:
+        - Unable to access the repository
+        - Can't view specific documents
+        - Permission errors when trying to create issues
+        - Other access-related problem
+    validations:
+      required: true
+  
+  - type: textarea
+    id: issue-details
+    attributes:
+      label: Issue Details
+      description: Please describe the access issue you're experiencing
+      placeholder: |
+        Please include:
+        - What specifically you're trying to access
+        - Any error messages you've received
+        - Steps you've already taken to resolve the issue
+    validations:
+      required: true
+  
+  - type: input
+    id: github-username
+    attributes:
+      label: Your GitHub Username
+      description: This helps us check your permissions
+      placeholder: "@username"
+    validations:
+      required: true
+  
+  - type: input
+    id: organization
+    attributes:
+      label: Your Organization
+      description: Which organization or agency are you with?
+      placeholder: "e.g., Department of Labor, State of California"
+    validations:
+      required: true
+  
+  - type: checkboxes
+    id: attempted
+    attributes:
+      label: Troubleshooting Steps
+      description: Please confirm you've tried these steps
+      options:
+        - label: I've logged out and back into GitHub
+          required: false
+        - label: I've cleared my browser cache/cookies
+          required: false
+        - label: I've confirmed my email address is verified in GitHub
+          required: false
