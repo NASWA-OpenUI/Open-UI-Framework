@@ -41,7 +41,7 @@ Add categories or status indicators to issues and pull requests to keep things o
 > **Example:** "This document needs legal review → I'll add the 'legal-review' **label** so the right team sees it"
 
 ## Markdown (.md files)
-Format text documents with headers, lists, and other styling using simple symbols.
+The formatting language used in GitHub to create text documents with headers, lists, and other styling using simple symbols.
 
 > **Example:** "I need to make this text bold → I'll add \*\* before and after the text in a **markdown** file"
 
