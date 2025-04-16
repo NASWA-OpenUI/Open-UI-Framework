@@ -56,7 +56,7 @@ A way to group related issues or pull requests together to track progress toward
 > **Example:** "These updates are for our Q2 release → I'll add them to the Q2 Documentation **milestone**"
 
 ## Projects
-View and organize work across multiple documents or tasks in a board-style layout.
+A way to view and organize work across multiple documents or tasks in a board-style layout.
 
 > **Example:** "I want to see all documentation tasks in one place → I'll check our team's **Project** board."
 
