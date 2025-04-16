@@ -66,7 +66,7 @@ Share your proposed changes with the team and gather feedback before making them
 > **Example:** "I've finished my document updates → I'll create a **pull request** so my changes can be reviewed"
 
 ## README
-Find essential information about the repository and how to use it.
+A file where that contains essential information about the repository and how to use it.
 
 > **Example:** "I'm new to this project → I'll check the README for guidance on getting started."
 
