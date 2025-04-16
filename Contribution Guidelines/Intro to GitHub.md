@@ -5,7 +5,7 @@ Create your own workspace to make changes without affecting what others see. Thi
 
 > **Example:** "I want to update a process document → I'll create a separate **branch** to work on my changes"
 
-## Comments
+## Comment
 Provide feedback, ask questions, or suggest edits on specific parts of documents.
 
 > **Example:** "I have a suggestion about this paragraph → I'll add a **comment** to that specific section"
