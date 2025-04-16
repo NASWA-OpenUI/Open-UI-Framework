@@ -51,7 +51,7 @@ Combine approved changes from a pull request into the main document.
 > **Example:** "The team has approved my updates → they will **merge** my changes into the main branch"
 
 ## Milestone
-Group related issues or pull requests together to track progress toward a goal or deadline.
+A way to group related issues or pull requests together to track progress toward a goal or deadline.
 
 > **Example:** "These updates are for our Q2 release → I'll add them to the Q2 Documentation **milestone**"
 
