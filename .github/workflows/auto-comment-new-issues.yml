@@ -16,4 +16,4 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            Hi @${{ github.actor }}, thanks for submitting this issue! We'll be in touch shortly.
+            Hi @${{ github.actor }}, thanks for submitting this issue! A representative from the Open UI team be in touch shortly.
