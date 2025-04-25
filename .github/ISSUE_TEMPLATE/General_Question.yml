@@ -5,7 +5,7 @@
 name: General Question
 description: Ask a general question about the Open UI project or repository
 title: "[QUESTION]: "
-labels: ["question"]
+labels: ["question", "status:triage"]
 assignees: []
 body:
   - type: markdown
