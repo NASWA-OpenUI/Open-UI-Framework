@@ -5,7 +5,7 @@
 name: Access or Permission Issue
 description: Report problems accessing the repository or specific content
 title: "[ACCESS]: "
-labels: ["bug", "status: triage"]
+labels: ["bug", "triage"]
 assignees: []
 body:
   - type: markdown
