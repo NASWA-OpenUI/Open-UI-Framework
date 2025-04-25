@@ -5,7 +5,7 @@
 name: Access or Permission Issue
 description: Report problems accessing the repository or specific content
 title: "[ACCESS]: "
-labels: ["access", "support", "status: triage"]
+labels: ["bug", "status: triage"]
 assignees: []
 body:
   - type: markdown
@@ -14,19 +14,6 @@ body:
         ## Access Issue Report
         Use this form to report any problems with accessing the repository or specific content.
         Our team will respond as quickly as possible to resolve your access issue.
-  
-  - type: dropdown
-    id: issue-type
-    attributes:
-      label: Type of Access Issue
-      description: What type of access problem are you experiencing?
-      options:
-        - Unable to access the repository
-        - Can't view specific documents
-        - Permission errors when trying to create issues
-        - Other access-related problem
-    validations:
-      required: true
   
   - type: textarea
     id: issue-details
@@ -38,15 +25,6 @@ body:
         - What specifically you're trying to access
         - Any error messages you've received
         - Steps you've already taken to resolve the issue
-    validations:
-      required: true
-  
-  - type: input
-    id: github-username
-    attributes:
-      label: Your GitHub Username
-      description: This helps us check your permissions
-      placeholder: "@username"
     validations:
       required: true
   
