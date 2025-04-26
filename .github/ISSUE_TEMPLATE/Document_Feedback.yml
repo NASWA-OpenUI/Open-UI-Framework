@@ -60,12 +60,3 @@ body:
       placeholder: "I suggest changing X to Y because..."
     validations:
       required: false
-  
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Acknowledgement
-      description: By submitting this issue, you confirm the following
-      options:
-        - label: I have checked that there are no similar open issues addressing this feedback
-          required: true
