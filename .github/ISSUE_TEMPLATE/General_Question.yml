@@ -4,7 +4,7 @@
 
 name: General Question
 description: Ask a general question about the Open UI project or repository
-title: "[QUESTION]: "
+title: ""
 labels: ["question"]
 assignees: []
 body:
