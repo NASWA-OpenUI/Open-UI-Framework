@@ -40,7 +40,7 @@ Figure 1: Issue Tab
 
     - Click the green “New issue” button
 
-<img src="/media/image3.jpg" style="width:6.46875in;height:1.25in"
+<img src="./media/Image3.jpg" style="width:6.46875in;height:1.25in"
 alt="A screenshot of a computer Description automatically generated" />
 
 Figure 2: New Issue Button
@@ -57,7 +57,7 @@ Figure 2: New Issue Button
       - **General Question**: For inquiries not related to specific
         documents
 
-<img src="/media/image4.jpg"
+<img src="./media/Image4.jpg"
 style="width:6.68403in;height:1.89583in"
 alt="A screenshot of a computer Description automatically generated" />
 
@@ -91,7 +91,7 @@ Figure 3: Template Options
 
     - Click the “**Create**” button
 
-<img src="/media/image5.jpg"
+<img src="./media/Image5.jpg"
 style="width:6.53125in;height:1.04722in"
 alt="A close up of a computer screen Description automatically generated" />
 
@@ -99,7 +99,7 @@ Figure 4: Create New Issue Button
 
 - You’ll be redirected to a GitHub page with a summary of your issue
 
-- <img src="/media/image6.jpg" style="width:6.5in;height:3.60139in"
+- <img src="./media/Image6.jpg" style="width:6.5in;height:3.60139in"
   alt="A screenshot of a computer Description automatically generated" />This
   confirms that your issue has been successfully opened. If it’s
   informational and no further action is needed at this stage, no
