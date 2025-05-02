@@ -31,8 +31,7 @@ and provide updates via email.
 
     - Click the “Issues” tab at the top of the repository page
 
-<img src="./media/Image2.jpg"
-style="width:6.46875in;height:0.74634in" />
+<img src="./media/Image2.jpg" style="width:6.46875in;height:0.74634in" />
 
 Figure 1: Issue Tab
 
@@ -40,8 +39,7 @@ Figure 1: Issue Tab
 
     - Click the green “New issue” button
 
-<img src="./media/Image3.jpg" style="width:6.46875in;height:1.25in"
-alt="A screenshot of a computer Description automatically generated" />
+<img src="./media/Image3.jpg" style="width:6.46875in;height:1.25in"/>
 
 Figure 2: New Issue Button
 
@@ -57,9 +55,7 @@ Figure 2: New Issue Button
       - **General Question**: For inquiries not related to specific
         documents
 
-<img src="./media/Image4.jpg"
-style="width:6.68403in;height:1.89583in"
-alt="A screenshot of a computer Description automatically generated" />
+<img src="./media/Image4.jpg" style="width:6.68403in;height:1.89583in"/>
 
 Figure 3: Template Options
 
@@ -91,16 +87,13 @@ Figure 3: Template Options
 
     - Click the “**Create**” button
 
-<img src="./media/Image5.jpg"
-style="width:6.53125in;height:1.04722in"
-alt="A close up of a computer screen Description automatically generated" />
+<img src="./media/Image5.jpg" style="width:6.53125in;height:1.04722in"/>
 
 Figure 4: Create New Issue Button
 
 - You’ll be redirected to a GitHub page with a summary of your issue
 
- <img src="./media/Image6.jpg" style="width:6.5in;height:3.60139in"
-  alt="A screenshot of a computer Description automatically generated" />
+ <img src="./media/Image6.jpg" style="width:6.5in;height:3.60139in"/>
 
 Figure 5: Issue Confirmation Screen
 
