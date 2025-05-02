@@ -33,7 +33,9 @@ and provide updates via email.
 
 <img src="./media/Image2.jpg" style="width:6.46875in;height:0.74634in" />
 
-Figure 1: Issue Tab
+    <div style='text-align: center;'>
+    **Figure 1: Issue Tab**
+        </div>
 
 3.  **Create a new issue**
 
