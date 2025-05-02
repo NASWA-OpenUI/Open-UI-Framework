@@ -32,7 +32,7 @@ and provide updates via email.
     - Click the “Issues” tab at the top of the repository page
 
 <img src="./media/Image2.jpg" style="width:6.46875in;height:0.74634in" />
-            **Figure 1: Issue Tab**
+**Figure 1: Issue Tab**
 
 3.  **Create a new issue**
 
