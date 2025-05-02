@@ -100,8 +100,8 @@ Figure 4: Create New Issue Button
 - You’ll be redirected to a GitHub page with a summary of your issue
 
  <img src="./media/Image6.jpg" style="width:6.5in;height:3.60139in"
-  alt="A screenshot of a computer Description automatically generated" />This
-  confirms that your issue has been successfully opened. If it’s
+  alt="A screenshot of a computer Description automatically generated" />
+- This confirms that your issue has been successfully opened. If it’s
   informational and no further action is needed at this stage, no
   additional steps are required.
 
