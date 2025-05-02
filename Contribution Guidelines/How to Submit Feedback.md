@@ -18,14 +18,14 @@ and provide updates via email.
 
     - Click the “Issues” tab at the top of the repository page
 
-<img src="./media/Image2.jpg" style="width:6.46875in;height:0.74634in" />
+<img src="media/Image2.jpg" style="width:6.46875in;height:0.74634in" />
 Figure 1: Issue Tab
 
 2.  **Create a new issue**
 
     - Click the green “New issue” button
 
-<img src="./media/Image3.jpg" style="width:6.46875in;height:1.25in"/>
+<img src="media/Image3.jpg" style="width:6.46875in;height:1.25in"/>
 Figure 2: New Issue Button
 
 3.  **Select an issue template**
