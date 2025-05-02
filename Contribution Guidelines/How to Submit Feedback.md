@@ -101,11 +101,11 @@ Figure 4: Create New Issue Button
 
  <img src="./media/Image6.jpg" style="width:6.5in;height:3.60139in"
   alt="A screenshot of a computer Description automatically generated" />
-- This confirms that your issue has been successfully opened. If it’s
-  informational and no further action is needed at this stage, no
-  additional steps are required.
 
 Figure 5: Issue Confirmation Screen
+
+- This confirms that your issue has been successfully opened. It is
+  informational and no further action is needed at this stage.
 
 - You will also receive a confirmation email with a link to review the
   issue and add further comments throughout the resolution process.
