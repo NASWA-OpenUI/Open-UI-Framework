@@ -12,36 +12,23 @@ following guidelines will walk you through how to create an issue, use
 predefined templates for ease of creation, and further manage the ticket
 and provide updates via email.
 
-# How to Submit an Issue
+# How to Submit Feedback via an Issue
 
-1.  **Navigate to the Open UI Framework repository**
-
-    - Use the
-      [Open-UI-Framework](https://github.com/NASWA-OpenUI/Open-UI-Framework)
-      link to access the repo
-
-      - If you get a permission error message, please complete the [Open
-        UI Repo Access Request
-        Form](https://forms.office.com/Pages/ResponsePage.aspx?id=wgcnrwjKGE-noLkKj608dgOZ_Szh0_5OsCziloIAKrpURUo3N0FMMEZGSkhGOVpMR0pDTEw5WFZCWi4u)
-        to request access
-
-      - For any other issues, please contact <openui@naswa.org>
-
-2.  **Open the Issues tab**
+1.  **Open the Issues tab**
 
     - Click the “Issues” tab at the top of the repository page
 
 <img src="./media/Image2.jpg" style="width:6.46875in;height:0.74634in" />
 Figure 1: Issue Tab
 
-3.  **Create a new issue**
+2.  **Create a new issue**
 
     - Click the green “New issue” button
 
 <img src="./media/Image3.jpg" style="width:6.46875in;height:1.25in"/>
 Figure 2: New Issue Button
 
-4.  **Select an issue template**
+3.  **Select an issue template**
 
     - Choose the appropriate template for your feedback:
 
@@ -57,7 +44,7 @@ Figure 2: New Issue Button
 
 Figure 3: Template Options
 
-5.  **Complete the template**
+4.  **Complete the template**
 
     - While templates vary based on topic, they have some common
       elements:
@@ -79,7 +66,7 @@ Figure 3: Template Options
     - If you are unsure about any field, leave it blank and our team
       will follow up
 
-6.  **Submit your issue**
+5.  **Submit your issue**
 
     - Review your information for completeness
 
