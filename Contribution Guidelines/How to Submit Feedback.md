@@ -67,7 +67,7 @@ Figure 3: Template Options
 
 5.  **Submit your issue**
 
-    - Review your information for completeness
+    - Review the information you provided for completeness
 
     - Click the “**Create**” button
 
