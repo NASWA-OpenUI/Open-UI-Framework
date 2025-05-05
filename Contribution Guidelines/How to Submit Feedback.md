@@ -19,14 +19,14 @@ and provide updates via email.
     - Click the “Issues” tab at the top of the repository page
 
 <img src="./media/Image2.jpg" style="width:6.46875in;height:0.74634in" />
-Figure 1: Issue Tab
+<p align="center"><b><i>Figure 1: Issue Tab</i></b></p>
 
 2.  **Create a new issue**
 
     - Click the green “New issue” button
 
 <img src="./media/Image3.jpg" style="width:6.46875in;height:1.25in"/>
-Figure 2: New Issue Button
+<p align="center"><b><i>Figure 2: New Issue Button</i></b></p>
 
 3.  **Select an issue template**
 
@@ -42,7 +42,7 @@ Figure 2: New Issue Button
 
 <img src="./media/Image4.jpg" style="width:6.68403in;height:1.89583in"/>
 
-Figure 3: Template Options
+<p align="center"><b><i>Figure 3: Template Options</i></b></p>
 
 4.  **Complete the template**
 
@@ -73,13 +73,13 @@ Figure 3: Template Options
 
 <img src="./media/Image5.jpg" style="width:6.53125in;height:1.04722in"/>
 
-Figure 4: Create New Issue Button
+<p align="center"><b><i>Figure 4: Create New Issue Button</i></b></p>
 
 - You’ll be redirected to a GitHub page with a summary of your issue
 
  <img src="./media/Image6.jpg" style="width:6.5in;height:3.60139in"/>
 
-Figure 5: Issue Confirmation Screen
+<p align="center"><b><i>Figure 5: Issue Confirmation Screen</i></b></p>
 
 - This confirms that your issue has been successfully opened. It is
   informational and no further action is needed at this stage.
