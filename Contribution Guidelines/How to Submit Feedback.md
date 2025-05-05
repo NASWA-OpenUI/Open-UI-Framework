@@ -62,8 +62,8 @@ Figure 3: Template Options
 
     - Please be specific to help us address your feedback efficiently
 
-    - If you are unsure about any field, leave it blank and our team
-      will follow up
+    - If you are unsure about any field, please reach out to our team
+      for help at openui@naswa.org and we will follow up with you
 
 5.  **Submit your issue**
 
