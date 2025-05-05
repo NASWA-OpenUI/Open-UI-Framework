@@ -49,17 +49,16 @@ Figure 3: Template Options
     - While templates vary based on topic, they have some common
       elements:
 
-      - Required fields – noted by an **\*** symbol
+        - **Title** - Give your issue a descriptive title that communicates at a glance what your feedback is about.
 
-        - **Title**
+        - **Sub Issue/Question Type** - Select what kind of feedback you are providing.
 
-        - **Sub Issue/Question Type**
-
-        - **Issue/Question Details**
+        - **Issue/Question Details** - Provide the details of your feedback here.
 
       - Optional fields – noted with an (optional) prefix
 
-        - **Suggestions for change**
+        - **Suggestions for change** - Provide any suggestions or ideas on how to implement your feedback.
+
 
     - Please be specific to help us address your feedback efficiently
 
