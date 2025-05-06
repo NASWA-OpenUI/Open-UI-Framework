@@ -4,9 +4,9 @@ NASWA, in partnership with the U.S. Department of Labor, is collaborating with s
 
 The Open UI Initiative will change how we create and purchase technology. It involves forming new collaborations and partnerships to make a wider range of open and modular solutions available.
 
-The purpose of this repository is to host the Open UI Framework, define the modules within it, and how a standardized data schema supports those modules. We will evolve the Framework over time with community support whether that is changing module boundaries, adapting interactions between modules, or optimizing a module’s outputs for new standards and technologies. Please review our [Code of Conduct](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/main/Contribution%20Guidelines/CODE_OF_CONDUCT.md).
+The purpose of this repository is to host the Open UI Framework, define the modules within it, and how a standardized data schema supports those modules. We will evolve the Framework over time with community support whether that is changing module boundaries, adapting interactions between modules, or optimizing a module’s outputs for new standards and technologies. Please review our [Code of Conduct](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/578fe338c2d225291c0f16338d57cec465c7a7f1/Contribution%20Guidelines/CODE_OF_CONDUCT.md).
 
-To find [top-level information on Open UI](https://github.com/NASWA-OpenUI/Overview/blob/main/About%20the%20Initiative.md), answers to [frequently asked questions](https://github.com/NASWA-OpenUI/Overview/blob/main/FAQs.md) and our [glossary]([https://github.com/NASWA-OpenUI/Overview/blob/main/Open%20UI%20Glossary.md](https://github.com/NASWA-OpenUI/Overview/blob/main/Open%20UI%20Initiative%20Glossary.md)) please visit our [Overview Repository](https://github.com/NASWA-OpenUI/Overview).
+To find [top-level information on Open UI](https://github.com/NASWA-OpenUI/Overview/blob/main/About%20the%20Initiative.md) and answers to [frequently asked questions](https://github.com/NASWA-OpenUI/Overview/blob/main/FAQs.md) please visit our [Overview Repository](https://github.com/NASWA-OpenUI/Overview).
 
 Find more information and updates on Open UI at our [website](https://www.naswa.org/open-ui-initiative) or email us at [openui@naswa.org](mailto:openui@naswa.org).
 
@@ -32,11 +32,11 @@ This document discusses the Open UI Framework, how modules are defined within it
 ### Description 
 
 The Open UI Framework breaks down into three main bodies of work: 
-* The [**Open UI Module Set**](https://github.com/NASWA-OpenUI/Overview/blob/72d3a056746146a854475936787e150923499c58/Open%20UI%20Initiative%20Module%20Set.md) enumerates the list of modules and describes each of them at a high level. 
-* An **Open UI Module Specification** defines how a given module will interact within a UI system, whether that is from one Open UI Module to another or from an Open UI Module to part of an existing UI system. This information is availble in the [Open UI Framework repository](#framework-repository)
+* The [**Open UI Module Set**](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/e40bc2436d2cf30302c69b79a171de10a441de38/Open%20UI%20Initiative%20Module%20Set.md) enumerates the list of modules and describes each of them at a high level. 
+* An **Open UI Module Specification**(https://github.com/NASWA-OpenUI/Open-UI-Framework/tree/e40bc2436d2cf30302c69b79a171de10a441de38/Module%20Documentation) defines how a given module will interact within a UI system, whether that is from one Open UI Module to another or from an Open UI Module to part of an existing UI system.
 * An **Open UI Data Schema** (forthcoming) to support the standardized interactions specified for each module. 
 
-### More details: Open UI Module Specifications 
+### More details: [Open UI Module Specifications](https://github.com/NASWA-OpenUI/Open-UI-Framework/tree/e40bc2436d2cf30302c69b79a171de10a441de38/Module%20Documentation) 
 
 #### Module Specifications: What’s in scope? 
 
@@ -67,7 +67,7 @@ Where appropriate the Framework will also standardize field semantics as relates
 
 Find more information and updates on the Open UI Initiative at our [website](https://www.naswa.org/open-ui-initiative) or email us at [openui@naswa.org](mailto:openui@naswa.org).
 
-If you have specific feedback to provide about content in the Framework Repository, such as feedback or a suggestion for a specific module specification, please see instructions for how to submit an Issue in our [Contributing Guide](CONTRIBUTING.md).
+If you have specific feedback to provide about content in the Framework Repository, such as feedback or a suggestion for a specific module specification, please see instructions for how to submit an Issue in our [Contributing Guide](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/e40bc2436d2cf30302c69b79a171de10a441de38/CONTRIBUTING.md).
 
 Please review our [Code of Conduct](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/main/Contribution%20Guidelines/CODE_OF_CONDUCT.md) before submitting feedback.
 
