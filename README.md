@@ -15,7 +15,7 @@ Find more information and updates on Open UI at our [website](https://www.naswa.
 ## Table of Contents
 
 1. [What is the Open UI Framework?](#what-is-the-open-ui-framework)
-2. [How to contribute](#how-to-contribute)
+2. [How to contribute to or support the Open UI Initiative](#how-to-contribute-to-or-support-the-open-ui-initiative)
 
 <br>
 
@@ -63,4 +63,12 @@ Where appropriate the Framework will also standardize field semantics as relates
 
 <br>
 
-## How to contribute
+## How to contribute to or support the Open UI Initiative
+
+Find more information and updates on the Open UI Initiative at our [website](https://www.naswa.org/open-ui-initiative) or email us at [openui@naswa.org](mailto:openui@naswa.org).
+
+If you have specific feedback to provide about content in the Framework Repository, such as feedback or a suggestion for a specific module specification, please see instructions for how to submit an Issue in our [Contributing Guide](CONTRIBUTING.md).
+
+Please review our [Code of Conduct](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/main/Contribution%20Guidelines/CODE_OF_CONDUCT.md) before submitting feedback.
+
+
