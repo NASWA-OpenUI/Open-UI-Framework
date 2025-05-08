@@ -25,7 +25,7 @@ Find more information and updates on Open UI at our [website](https://www.naswa.
 
 One of the objectives of the Open Unemployment Insurance (UI) Initiative is to define and evolve a standardized modular UI technology framework. We anticipate the Open UI Framework will become the standard topography of UI systems throughout the field. To learn more about the initiative, please see our About the Initiative page. 
 
-The Open UI Framework defines key groups of functionalities or system boundaries as “modules.” The complete [Open UI Module Set ](https://github.com/NASWA-OpenUI/Overview/blob/72d3a056746146a854475936787e150923499c58/Open%20UI%20Initiative%20Module%20Set.md) is the minimum set of modules needed to fully support the administration of UI. For each of these modules, it specifies data and interface standards for interacting with the rest of a UI system. 
+The Open UI Framework defines key groups of functionalities or system boundaries as “modules.” The complete [Open UI Module Set](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/57f6916334e1470ff98275a043ea4591006db56e/Open%20UI%20Initiative%20Module%20Set.md) is the minimum set of modules needed to fully support the administration of UI. For each of these modules, it specifies data and interface standards for interacting with the rest of a UI system. 
 
 This document discusses the Open UI Framework, how modules are defined within it, and how a standardized data schema supports those modules. With input from the Open UI Community, we will evolve the Open UI Framework over time, whether that is changing module boundaries, adapting interactions between modules, or optimizing a module’s outputs for new standards and technologies.   
 
@@ -33,7 +33,7 @@ This document discusses the Open UI Framework, how modules are defined within it
 
 The Open UI Framework breaks down into three main bodies of work: 
 * The [**Open UI Module Set**](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/e40bc2436d2cf30302c69b79a171de10a441de38/Open%20UI%20Initiative%20Module%20Set.md) enumerates the list of modules and describes each of them at a high level. 
-* An **Open UI Module Specification**(https://github.com/NASWA-OpenUI/Open-UI-Framework/tree/e40bc2436d2cf30302c69b79a171de10a441de38/Module%20Documentation) defines how a given module will interact within a UI system, whether that is from one Open UI Module to another or from an Open UI Module to part of an existing UI system.
+* An [**Open UI Module Specification**](https://github.com/NASWA-OpenUI/Open-UI-Framework/tree/e40bc2436d2cf30302c69b79a171de10a441de38/Module%20Documentation) defines how a given module will interact within a UI system, whether that is from one Open UI Module to another or from an Open UI Module to part of an existing UI system.
 * An **Open UI Data Schema** (forthcoming) to support the standardized interactions specified for each module. 
 
 ### More details: [Open UI Module Specifications](https://github.com/NASWA-OpenUI/Open-UI-Framework/tree/e40bc2436d2cf30302c69b79a171de10a441de38/Module%20Documentation) 
