@@ -3,7 +3,7 @@
 If you have additional questions or are interested in learning about more ways to work with the Open UI Initiative, please email us at [openui@naswa.org](mailto:openui@naswa.org). You can also visit our [website](https://www.naswa.org/open-ui-initiative) for more information about the Open UI Initiative. 
 
 
-Please review our[Code of Conduct](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/578fe338c2d225291c0f16338d57cec465c7a7f1/Contribution%20Guidelines/CODE_OF_CONDUCT.md) before submitting feedback.
+Please review our [Code of Conduct](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/578fe338c2d225291c0f16338d57cec465c7a7f1/Contribution%20Guidelines/CODE_OF_CONDUCT.md) before submitting feedback.
 
 <br>
 
