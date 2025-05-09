@@ -84,3 +84,24 @@ The Claimant Services Module provides the primary interface for unemployment ins
 - Call center volume reduction
 - Accessibility compliance
 - Mobile usage metrics
+
+## References
+
+### Federal Guidelines
+- [DOL ETA Handbook 401](https://oui.doleta.gov/dmstree/handbooks/401/401_toc.asp) - UI Reports Handbook
+- [DOL UI Directors' Guide](https://oui.doleta.gov/unemploy/pdf/directorguide.pdf) - Comprehensive overview of UI program requirements
+- [UI Minimum Functionality Requirements](https://www.dol.gov/agencies/eta/advisories) - Basic requirements for UI systems
+- [DOL ETA Handbook 382](https://www.dol.gov/agencies/eta/advisories/handbooks/et-handbook-no-382) - Handbook for Interstate Claims
+- [DOL Standard for Claim Filing](https://www.ecfr.gov/current/title-20/chapter-V/part-614/appendix-Appendix%20A%20to%20Part%20614) - Standards for claim filing and claimant reporting
+
+### Standards and Best Practices
+- [NASWA UI IT Modernization Resources](https://www.naswa.org/resources) - Technical guidance documents
+- [GAO Report: UI IT Modernization](https://www.gao.gov/products/gao-12-957) - Challenges and best practices
+- [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/) - Requirements for government communications
+- [Digital Identity Guidelines](https://pages.nist.gov/800-63-3/) - NIST SP 800-63-3 for identity verification
+
+### Technical Standards
+- [NIST Special Publication 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - Security controls for information systems
+- [W3C Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) - Accessibility standards
+- [Section 508 Standards](https://www.section508.gov/manage/laws-and-policies/) - Accessibility requirements
+- [Multi-Factor Authentication Standards](https://pages.nist.gov/800-63-3/sp800-63b.html) - NIST guidelines for authentication

@@ -81,3 +81,24 @@ The Employer Services Module provides the interface and processing capabilities 
 - Call center volume reduction
 - Protest resolution timeliness
 - SIDES participation rate
+
+## References
+
+### Federal Guidelines
+- [DOL ETA Handbook 401](https://oui.doleta.gov/dmstree/handbooks/401/401_toc.asp) - UI Reports Handbook
+- [DOL UI Directors' Guide](https://oui.doleta.gov/unemploy/pdf/directorguide.pdf) - Comprehensive overview of UI program requirements
+- [UI Minimum Functionality Requirements](https://www.dol.gov/agencies/eta/advisories) - Basic requirements for UI systems
+- [DOL ETA 581 Reporting](https://wdr.doleta.gov/directives/attach/etah401/etah401c1.pdf) - Contribution Operations
+- [Treasury Financial Manual](https://tfm.fiscal.treasury.gov/v1.html) - Requirements for handling payments
+
+### Standards and Best Practices
+- [NASWA UI IT Modernization Resources](https://www.naswa.org/resources) - Technical guidance documents
+- [GAO Report: UI IT Modernization](https://www.gao.gov/products/gao-12-957) - Challenges and best practices
+- [State UI Tax Performance System](https://oui.doleta.gov/unemploy/tax_perform.asp) - Tax performance systems
+- [Electronic Payment Standards](https://www.fiscal.treasury.gov/reference/green-book/) - Green Book for ACH payments
+
+### Technical Standards
+- [NIST Special Publication 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - Security controls for information systems
+- [W3C Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) - Accessibility standards
+- [IRS Publication 1075](https://www.irs.gov/pub/irs-pdf/p1075.pdf) - Tax information security guidelines
+- [NACHA Operating Rules](https://www.nacha.org/rules) - Standards for electronic payments

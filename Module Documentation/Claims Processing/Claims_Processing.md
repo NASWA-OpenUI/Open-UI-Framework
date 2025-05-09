@@ -79,3 +79,23 @@ The Claims Processing Module manages the core business logic for evaluating UI c
 - Processing capacity (claims per hour)
 - Error rates
 - System availability and response time
+
+## References
+
+### Federal Guidelines
+- [DOL ETA Handbook 401](https://oui.doleta.gov/dmstree/handbooks/401/401_toc.asp) - UI Reports Handbook
+- [DOL UI Directors' Guide](https://oui.doleta.gov/unemploy/pdf/directorguide.pdf) - Comprehensive overview of UI program requirements
+- [UI Minimum Functionality Requirements](https://www.dol.gov/agencies/eta/advisories) - Basic requirements for UI systems
+- [DOL ETA Handbook 301](https://wdr.doleta.gov/directives/attach/ETAH/ETHand301_Ch1.pdf) - UI Initial Claims
+- [DOL ETA Handbook 395](https://www.dol.gov/agencies/eta/advisories/handbooks/et-handbook-no-395) - Benefits Timeliness and Quality
+- [DOL ETA Handbook 402](https://oui.doleta.gov/unemploy/pdf/procedure/ets.pdf) - UI Data Validation Program
+
+### Standards and Best Practices
+- [NASWA UI IT Modernization Resources](https://www.naswa.org/resources) - Technical guidance documents
+- [GAO Report: UI IT Modernization](https://www.gao.gov/products/gao-12-957) - Challenges and best practices
+- [UI State Comparison](https://oui.doleta.gov/unemploy/pdf/uilawcompar/2023/complete.pdf) - Comparison of state UI laws
+- [ETA 9052 Data](https://oui.doleta.gov/unemploy/nonmon_eval.asp) - Nonmonetary Determination Time Lapse
+
+### Technical Standards
+- [NIST Special Publication 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - Security controls for information systems
+- [W3C Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) - Accessibility standards
