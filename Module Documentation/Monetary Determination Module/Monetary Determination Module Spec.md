@@ -15,7 +15,7 @@ A **monetary determination**, sometimes referred to as a **monetary entitlement*
 The determination may also include more information about the claimant’s **work history**, i.e., wages earned for how many hours worked at which employer(s), to establish the monetary determination. 
 
 ### Monetary Determination Module Scope
-The Open UI Framework defines and standardizes how a Monetary Determination Module would provide data to and get data from other parts of a UI system. In this version of the spec, we outline what we believe to be the necessary inputs and outputs of the module at a conceptual level, and the forthcoming module specification will establish the specific format for data inputs and outputs, as described in [What is the Open UI Framework](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/OUI-379-Open-UI-MonDet-Brief/Framework%20FAQs/What%20is%20the%20Open%20UI%20Framework.md).
+The Open UI Framework defines and standardizes how a Monetary Determination Module would provide data to and get data from other parts of a UI system. In this version of the spec, we outline what we believe to be the necessary inputs and outputs of the module at a conceptual level, and the forthcoming module specification will establish the specific format for data inputs and outputs, as described in [What is the Open UI Framework](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/995812db30afba16cddb69d4f626c807b12e8093/README.md).
 > As we work on the Monetary Determination Module Specification and others, and as we collaborate with and get feedback from the Open UI Community, the  scope of the modules and how we talk about them will likely change. 
 
 ### Inputs
@@ -36,9 +36,9 @@ What does the monetary determination module need to provide for other parts of a
 - Date of determination
 
 ### Interactions with Other Modules
-When thinking about the scope of the Monetary Determination Module and defining its inputs and outputs, it’s helpful to think more specifically about the other modules within the [Open UI Module Set](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/main/Open%20UI%20Module%20Set.md) that it will need to interact with. The other modules listed in this section are reflective of that list.
+When thinking about the scope of the Monetary Determination Module and defining its inputs and outputs, it’s helpful to think more specifically about the other modules within the [Open UI Module Set](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/995812db30afba16cddb69d4f626c807b12e8093/Open%20UI%20Initiative%20Module%20Set.md) that it will need to interact with. The other modules listed in this section are reflective of that list.
 
-These interactions with other modules will also be codified as APIs in the forthcoming module specifications, as described in [What is the Open UI Framework](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/OUI-379-Open-UI-MonDet-Brief/Framework%20FAQs/What%20is%20the%20Open%20UI%20Framework.md), but this module spec describes some of those interactions conceptually: 
+These interactions with other modules will also be codified as APIs in the forthcoming module specifications, as described in [What is the Open UI Framework](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/995812db30afba16cddb69d4f626c807b12e8093/README.md), but this module spec describes some of those interactions conceptually: 
 - **Payments Module**
   - The Weekly Benefit Amount is the base from which any reductions or diversions are made to calculate how much a claimant will receive in a given benefit week.
   - The Payment Record will need to be cross referenced with the Maximum Payable Amount to ensure that the claimant isn’t receiving more than they are eligible for 
@@ -83,7 +83,7 @@ We will define success for the following metrics:
 - The monetary determination module shall accurately calculate reported wages to determine the weekly benefit amount.
 
 ## Conditions Necessary for Adoption
-In addition to what is generally true of modules within the Open UI Framework, as described in [Conditions Necessary for Adoption](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/main/Framework%20FAQs/Adopting%20the%20Open%20UI%20Framework.md), we believe it is unlikely that this module would be adopted on its own. However, once implemented, the Monetary Determination module could be able to be updated and/or replaced individually. More research is needed. 
+In addition to what is generally true of modules within the Open UI Framework, as described in [What is the Open UI Framework](https://github.com/NASWA-OpenUI/Open-UI-Framework/blob/995812db30afba16cddb69d4f626c807b12e8093/README.md), we believe it is unlikely that this module would be adopted on its own. However, once implemented, the Monetary Determination module could be able to be updated and/or replaced individually. More research is needed. 
 
 ## Sources
 - [ETA State Comparison Guide](https://oui.doleta.gov/unemploy/pdf/uilawcompar/2023/monetary.pdf)
